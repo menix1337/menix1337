@@ -24,13 +24,13 @@ Here are a few things I'm working with:
 - 🌐 React
 - 🪙 MongoDB, MySQL
 - 🎮 Unreal Engine / Unity
-- 💻 Dedicated Servers Management, Game Server Setup
+- 💻 VPN / Dedicated Servers Management, Game Server Setup (SteamCMD etc.)
 - 
-...And others! (Not limited to)
+... And others! (Not limited to)
 
 ## Contact
 
-- Discord - `MENIX#3456`
+- Discord - `MENIX#3456` -or- [Click here](https://discord.com/users/113616977779621895)
 - Mail - Contact me!
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=menix1337&count_private=true&theme=radical&show_icons=true&include_all_commits=true)]
