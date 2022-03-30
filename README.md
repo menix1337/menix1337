@@ -20,12 +20,11 @@ Here are a few things I'm working with:
 - ⌨️ JavaScript / discordjs
 - 🐍 Python / discordpy 
 - 🌐 NodeJS, ExpressJS, NextJS
-- 🌐 HTML, PHP, CSS
-- 🌐 React
+- 🌐 HTML, CSS, JS, PHP, React
 - 🪙 MongoDB, MySQL
 - 🎮 Unreal Engine / Unity
 - 💻 VPN / Dedicated Servers Management, Game Server Setup (SteamCMD etc.)
-- 
+
 ... And others! (Not limited to)
 
 ## Contact
