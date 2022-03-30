@@ -33,6 +33,6 @@ Here are a few things I'm working with:
 - Discord - `MENIX#3456` -or- [Click here](https://discord.com/users/113616977779621895)
 - Mail - Contact me!
 
-![Stats](https://github-readme-stats.vercel.app/api?username=menix1337&count_private=true&theme=radical&show_icons=true&include_all_commits=true)]
+![Stats](https://github-readme-stats.vercel.app/api?username=menix1337&count_private=true&theme=radical&show_icons=true&include_all_commits=true&custom_title=MENIX's%20Stats)]
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=menix1337/menix1337)
