@@ -1,14 +1,16 @@
 <h1 align="center">👋 Hello there, I'm MENIX</h1>
 
-I'm a profession bachelor in Web Development, and a Academy Degree in Multimedia Design.
-I love to explore, learn and see what the fuzz is all about, with different coding languages or tools.
+I'm a profession bachelor in Web Development, and a Academy Degree in Multimedia Design - having a past as a professional esports athlete in multiple FPS titles.
+
+I love to explore, learn and see what the fuzz is all about, with the different coding languages, tools or stuff such as Unreal Engine & Unity.
 
 Always looking for new opportunities, feel free to contact me. 👀
 
 ## Projects
 
 Most of my projects are private, due to it being a project for someone's community, paid stuff, or stuff that shouldn't be leaked.
--- But some of the things i work mostly on these days are related to Discord Bots, using [Discord.js](https://github.com/discordjs/discord.js)
+
+But most things i work mostly on these days are related to Discord Bots, using [Discord.js](https://github.com/discordjs/discord.js)
 
 
 ## Stack
@@ -21,6 +23,7 @@ Here are a few things I'm working with:
 - 🌐 HTML, PHP, CSS
 - 🌐 React
 - 🪙 MongoDB, MySQL
+- 🎮 Unreal Engine / Unity
 - 💻 Dedicated Servers Management, Game Server Setup
 ...And others! (Not limited to)
 
