@@ -25,6 +25,7 @@ Here are a few things I'm working with:
 - 🪙 MongoDB, MySQL
 - 🎮 Unreal Engine / Unity
 - 💻 Dedicated Servers Management, Game Server Setup
+- 
 ...And others! (Not limited to)
 
 ## Contact
