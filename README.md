@@ -8,7 +8,7 @@ Always looking for new opportunities, feel free to contact me. 👀
 ## Projects
 
 Most of my projects are private, due to it being a project for someone's community, paid stuff, or stuff that shouldn't be leaked.
-- But some of the things i work mostly on these days are related to Discord Bots, using ![Discord.js](https://github.com/discordjs/discord.js)
+-- But some of the things i work mostly on these days are related to Discord Bots, using [Discord.js](https://github.com/discordjs/discord.js)
 
 
 ## Stack
