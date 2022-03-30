@@ -27,7 +27,7 @@ Here are a few things I'm working with (But not limited to!):
 
 ## Contact
 
-- Discord - `MENIX#3456` or [My Discord server](https://discord.gg/R6puN8Z)
+- Discord - `MENIX#3456`
 - Mail - Contact me!
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=menix1337&count_private=true&theme=radical&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
