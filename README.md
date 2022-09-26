@@ -16,13 +16,16 @@ But most things i work mostly on these days are related to Discord Bots, using [
 
 Here are a few things I'm working with:
 
-- ⌨️ JavaScript / discordjs
-- 🐍 Python / discordpy 
+- ⌨️ JavaScript / TypeScript
+- 🐍 Python
 - 🌐 NodeJS, ExpressJS, NextJS
 - 🌐 HTML, CSS, JS, PHP, React
-- 🪙 MongoDB, MySQL
+- 🌐 MongoDB, MySQL, Prisma
+- 🌐 DiscordJS, DiscordPy
 - 🎮 Unreal Engine / Unity
 - 💻 VPN / Dedicated Servers Management, Game Server Setup (SteamCMD etc.)
+
+
 
 ... And others! (Not limited to)
 
