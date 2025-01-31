@@ -12,7 +12,7 @@ Most of my projects are private, due to it being a project for someone's communi
 
 But most things i work mostly on these days are related to Discord Bots, using [Discord.js](https://github.com/discordjs/discord.js) or Websites using [Next.js](https://github.com/discordjs/discord.js)
 
-## Stack
+## Playground
 
 Here are a few things I'm working with:
 
@@ -21,7 +21,7 @@ Here are a few things I'm working with:
 - 🌐 Rust
 - 🌐 NodeJS, ExpressJS, NextJS
 - 🌐 HTML, CSS, JS, PHP, React
-- 🌐 MongoDB, MySQL, Prisma
+- 🌐 MongoDB, MySQL, Postgres, Prisma
 - 🌐 DiscordJS, DiscordPy
 - 🎮 Unreal Engine / Unity
 - 💻 VPN / Dedicated Servers Management, Game Servers, Hardware maintenence
