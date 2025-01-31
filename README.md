@@ -18,20 +18,18 @@ Here are a few things I'm working with:
 
 - ⌨️ JavaScript / TypeScript
 - 🐍 Python
+- 🌐 Rust
 - 🌐 NodeJS, ExpressJS, NextJS
 - 🌐 HTML, CSS, JS, PHP, React
 - 🌐 MongoDB, MySQL, Prisma
 - 🌐 DiscordJS, DiscordPy
 - 🎮 Unreal Engine / Unity
-- 💻 VPN / Dedicated Servers Management, Game Server Setup (SteamCMD etc.)
-
-
-
-... And others! (Not limited to)
+- 💻 VPN / Dedicated Servers Management, Game Servers, Hardware maintenence
+... And others!
 
 ## Contact
 
-- Discord - `MENIX#3456` -or- [Click here](https://discord.com/users/113616977779621895)
+- Discord - `menix` -or- [Click here](https://discord.com/users/113616977779621895)
 - Mail - Contact me!
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=menix1337&count_private=true&theme=radical&show_icons=true&include_all_commits=true&custom_title=MENIX's%20Stats)]
